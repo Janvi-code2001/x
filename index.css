@@ -1,0 +1,98 @@
+.container{
+    border: 2px solid black;
+    width: 1120px;
+    margin: 20px auto;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1{
+
+    color: rgb(19, 4, 105);
+    font-family: cursive;
+}
+
+nav{
+    background-color:rgb(19, 4, 105);
+    padding: 20px 0px;
+    text-align: center;
+    font-family: Monospace;;
+}
+
+nav a{
+    text-decoration: none;
+    color: #f8eef0;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0px 20px;
+}
+
+nav a:hover{
+    background-color: rgb(239, 170, 170);
+} 
+
+ul li{
+    
+    width: 150px;
+    color: rgb(229, 6, 6);
+    font-size: 21px;
+    font-family: Monospace;
+}
+img{
+    height: 350px;
+    width: 700px;
+    
+}
+
+.heading{
+    margin-left: 420px;
+}
+
+
+
+.text{
+    margin-left: 420px;
+    color: rgb(229, 6, 6);
+    font-size: 19px;
+    font-family: Monospace;
+}
+
+footer{
+
+    text-align: center;  
+}
+header{
+      color: rgb(19, 4, 105);
+      padding: 10px;
+      display: flex;
+      
+      align-items: center;
+}
+
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+.brand-name {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(19, 4, 105);
+    margin-left: 650px;
+}
+
+
+  aside{
+
+    float: left;
+    width:  420px;
+    margin-bottom: 50px;
+}
+
+aside h2{
+   
+   color: rgb(19, 4, 105);
+   font-family: cursive;
+
+
+  }
